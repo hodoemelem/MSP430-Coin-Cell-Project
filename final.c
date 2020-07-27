@@ -5,8 +5,8 @@
  ******************************************************************************
  *                                                                            *
  * name:                    Henry Ugochukwu Odoemelem                         *
- * matriculation number:    1463255                                           *
- * e-mail:                  henry.odoemelem@student.uni-siegen.de             *
+ * matriculation number:                                                      *
+ * e-mail:                  hodoemelem@gmail.com                              *
  * Date:                    20-07-2020                                        *
  *                                                                            *
  ******************************************************************************
@@ -84,7 +84,7 @@ volatile uint16_t adc_val = 0;          // variable to hold sensor value
 volatile uint8_t light_flag = 0;        // flag to indicate a light source is present.
 volatile uint8_t preamble_flag = 0;     // flag to rx preamble
 volatile uint8_t process_flag = 0;      // flag for ack., measurement and transmission processes in progress
-volatile uint8_t exit_flag = 0;         // flag to reset the program if the light source is connected
+volatile uint8_t exit_flag = 0;         // flag to reset the program if the light source is disconnected
 
 /* TIMEOUT TIMER */
 void start_timeout(void);               // Initialize timeout watchdog timer.
