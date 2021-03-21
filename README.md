@@ -1,10 +1,10 @@
-##Problem
+## Problem
 
 ![carl1](https://user-images.githubusercontent.com/67382222/111897688-b75fe100-8a21-11eb-9296-ddcab4d1d0a2.JPG)
 ![carl2](https://user-images.githubusercontent.com/67382222/111897691-bb8bfe80-8a21-11eb-8bdc-710366b2fd05.JPG)
 ![carl3](https://user-images.githubusercontent.com/67382222/111897694-be86ef00-8a21-11eb-9880-c76c052a3408.JPG)
 
-##Solution
+## Solution
 
 ![sol1](https://user-images.githubusercontent.com/67382222/111897703-c34ba300-8a21-11eb-8997-4a7d14ee75ba.JPG)
 ![sol2](https://user-images.githubusercontent.com/67382222/111897705-c777c080-8a21-11eb-85cd-7b7344e23e93.JPG)
