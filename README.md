@@ -1,3 +1,5 @@
+Video demostration is on YouTube https://youtu.be/YDbbMY6BzWc
+
 ## Problem
 
 ![carl1](https://user-images.githubusercontent.com/67382222/111897688-b75fe100-8a21-11eb-9296-ddcab4d1d0a2.JPG)
@@ -16,5 +18,5 @@ This repository has the embedded c source code for the coin cell project using M
 
 The project task description can be found in projectTask.pdf 
 
-Video demostration is on YouTube https://youtu.be/YDbbMY6BzWc
+
 
